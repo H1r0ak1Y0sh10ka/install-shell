@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export INSTDIR=/home0/b/b33454/local/sshfs-fuse-2.5
+export INSTDIR=/usr/local/sshfs-fuse-2.5
 export PATH="${INSTDIR}/bin:${PATH}"
 export LD_LIBRARY_PATH="${INSTDIR}/lib:${LD_LIBRARY_PATH}"
 export INCLUDE="${INSTDIR}/include:${INCLUDE}"
